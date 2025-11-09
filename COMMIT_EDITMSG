@@ -1,0 +1,9 @@
+Add smooth scrolling navigation between different sections of the page
+
+Adds smooth scrolling functionality to navigation links in Hero, ServicesSection, and Contact components, and an ID to the Contact section for targeted scrolling.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 31e3d5c2-2ba6-4c48-b5ee-a5e0899ea1b8
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: bee8e3dd-5f66-4227-ac36-a26a196aca64
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/65d9488f-cd14-4152-ab0e-eb3951ac0bfa/31e3d5c2-2ba6-4c48-b5ee-a5e0899ea1b8/TVKVio5
