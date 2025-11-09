@@ -7,13 +7,13 @@ export default defineConfig({
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "src"),
-      "@shared": path.resolve(__dirname, "shared"),
-      "@assets": path.resolve(__dirname, "attached_assets"),
+      "@components": path.resolve(__dirname, "src/components"),
+      "@assets": path.resolve(__dirname, "src/assets"),
     },
   },
-  root: ".", // Root of the project (no client folder)
+  root: ".", // use project root
   build: {
-    outDir: "dist", // Vercel expects output here
+    outDir: "dist",
     emptyOutDir: true,
   },
   server: {
